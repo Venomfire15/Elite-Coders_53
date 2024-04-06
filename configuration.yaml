@@ -1,0 +1,6 @@
+path: E:/Pev hack/Project 1.1 
+train: Simages/train 
+val: Simages/train 
+
+names:
+  0: drone
